@@ -18,6 +18,7 @@ I post about my passion projects. Feel free to check it out and don't hesitate t
 <details>
 <summary><b>Chinese International School Hackathon Most Popular Vote Award</b></summary>
 <p>
+	
 - [Github Repo](https://www.github.com/rexanwong/photorush)
 - Hackathon hosted by Chinese International School, sponsored by Microsoft
 - Our team, Codeherlics, created an app called ResQLearn to tackle the issue of the lack of emergency knowledge taught in our traditional education system.
@@ -25,16 +26,19 @@ I post about my passion projects. Feel free to check it out and don't hesitate t
 - The overall app consists of the following features: Emergency guides, Preparedness checklists, and Interactive simulators.
 - This project was selected as a finalist project, along with 5 other finalist projects, out of 100 projects. 
 - Our project won the Most Popular Vote Award
+	
 </p>
 </details>
 
 <details>
 <summary><b>Best Mission Award Winner at Hong Kong International School Hackathon</b></summary>
 <p>
+	
 - Hackathon hosted by Hong Kong International School, sponsored by Parent Faculty Organization
 - I built and developed an AI model and app that efficiently sorts recyclable items, preventing them from being mistakenly discarded in regular trash bins. 
 - Users can effortlessly scan items to instantly determine their recyclability and the appropriate category: paper, plastic, or metal.
-- This project won the Best Mission Award. 
+- This project won the Best Mission Award.
+
 </p>
 </details>
 

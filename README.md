@@ -19,7 +19,7 @@ I post about my passion projects. Feel free to check it out and don't hesitate t
 <summary><b>Chinese International School Hackathon Most Popular Vote Award</b></summary>
 <p>
 	
-- [Github Repo](https://www.github.com/rexanwong/photorush)
+- [Github Repo]([https://www.github.com/rexanwong/photorush](https://github.com/lily4201/ResQLearn.git))
 - Hackathon hosted by Chinese International School, sponsored by Microsoft
 - Our team, Codeherlics, created an app called ResQLearn to tackle the issue of the lack of emergency knowledge taught in our traditional education system.
 - We designed a conventional emergency gamification skills education ResQ Learn for children to learn vital rescue techniques in fun and innovative ways.
